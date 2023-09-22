@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Save_csv_test</string>
+    <string name="aX">acc_x</string>
+    <string name="aY">acc_y</string>
+    <string name="aZ">acc_z</string>
+    <string name="gX">gyr_x</string>
+    <string name="gY">gyr_y</string>
+    <string name="gZ">gyr_z</string>
+    <string name="buttonStart">Throw!\n(Record data while 3 secs.)</string>
+    <string name="accValue">AccelSensorValue</string>
+    <string name="graValue">GyroSensorValue</string>
+    <string name="icon_rec">icon_REC</string>
+    <string name="title_dialog">どれだけ飛んだ？</string>
+    <string name="get_distance">ここに数値を入力</string>
+    <string name="button_dialog">OK!</string>
+    <string name="_0">0</string>
+    <string name="textFileName">ここに前回の飛距離を入力</string>
+    <string name="saved">saved</string>
+</resources>
